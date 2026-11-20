@@ -10,6 +10,7 @@ lede/
 libwrt/
 immortalwrt/
 airoha-wrt/
+ponwrt/
 compilecfg/test.ini
 deconfig/test.config
 *.swp
@@ -32,3 +33,4 @@ wrt_core/deconfig/test.config
 .taskmaster/
 .sisyphus/
 AGENTS.md
+.omo/
